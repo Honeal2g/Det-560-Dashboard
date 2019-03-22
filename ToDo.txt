@@ -1,0 +1,17 @@
+1)Need to Collect ROTC codes for more accurate analysis (I.E total GMC pay or Total POC pay. in order to seperate textbook funds)
+
+example: 
+
+SELECT * FROM 'CadetPay' WHERE EmpID="0244458" AND ROTC="ROTC45"
+
+
+2)Need to add Headless Mode
+
+3)Add password Encryption (FUN)
+
+4)Create GUI to pull all python prgms together. (In-Progress)
+
+
+Can i Pass two drivers? two different screens? split screen? simultaneous actions? 
+
+Simplify DoDMETS Code
